@@ -1,3 +1,4 @@
+%%Create interactive visualisation data 
 %import data as a matrix called data and do not include columns 1,2 and 100
 %labels to be assigned is stored in a cell array called ids
 %plot the data
