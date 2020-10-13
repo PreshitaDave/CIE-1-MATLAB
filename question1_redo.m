@@ -1,5 +1,5 @@
 %% To construct a barplot
-x = [1:9]
+%For the given data, generate a barplot with respect to functional sites and number of peptides.
 y = NumberofPeptides
 bar(x,y)
 set(gca, 'XTickLabel', FunctionalSites)
