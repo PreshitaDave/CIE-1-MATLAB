@@ -1,4 +1,5 @@
 %% Multiple scatter plot
+%Generate a multiple groups plot for the given data (multiple cluster)
 scatter(A1,A2,'y','*')
 hold on
 scatter(B1,B2,'m','+')
