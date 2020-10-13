@@ -1,4 +1,4 @@
-%% Time-frequency data
+%% Plot Time-frequency data
 % import the excel sheet file as column vectors
 subplot(3,1,1)
 plot(ms, CH00)
